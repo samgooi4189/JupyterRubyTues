@@ -10,6 +10,10 @@ Install Jupyter
 * source venv/bin/activate
 * pip install 'ipython[notebook]'
 
+If you are using rvm, you can apply the .rvmrc in this repo.
+Install bundler with "gem install bundler"
+Then run "bundle"
+
 Install Ruby gem
 * gem install rbczmq
 * gem install iruby
